@@ -1,4 +1,4 @@
-# blue-light-cameras-impact-analysis
+# Blue-Light-Cameras-Impact-Analysis
 
 ### Project Introduction
 A Blue Light camera is a surveillance camera with a lamp radiating blue light installed on
